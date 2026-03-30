@@ -42,8 +42,8 @@
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+<img height="160px" align="left" src="https://github-readme-stats.shion.dev/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+<img height="160px" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
 
 
 
