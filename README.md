@@ -12,8 +12,8 @@
 <a href="https://www.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/501122856" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 <a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
-<!-- base 保留用户名迁移前的 10,324 次主页访问。 -->
-<a href="https://komarev.com/ghpvc/?username=zhanghan-13&amp;abbreviated=true&amp;base=10324" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=zhanghan-13&amp;abbreviated=true&amp;base=10324" alt="GitHub 主页访问量"/></a>
+<!-- extraCount 保留迁移前的 10,324 次主页访问。 -->
+<a href="https://hits.sh/github.com/zhanghan-13/" target="_blank"><img align="center" src="https://hits.sh/github.com/zhanghan-13.svg?label=Profile%20views&amp;extraCount=10324&amp;color=007ec6" alt="GitHub 主页访问量"/></a>
 </p>
 
 ## 个人信息👤    
