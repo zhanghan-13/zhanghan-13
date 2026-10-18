@@ -8,7 +8,7 @@
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
-<a href="https://www.tokentracker.cc/u/1c6fc2a1-6490-471c-9073-9e6cf77b3b37"><img align="center" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsrctyff5.us-east.insforge.app%2Ffunctions%2Ftokentracker-leaderboard%3Fperiod%3Dtotal%26limit%3D1%26user_id%3D1c6fc2a1-6490-471c-9073-9e6cf77b3b37&amp;query=%24.me.total_tokens&amp;label=total%20tokens&amp;color=059669&amp;style=flat&amp;cacheSeconds=3600" alt="累计 AI Token 用量" ></a>&emsp;
+<a href="https://www.tokentracker.cc/u/1c6fc2a1-6490-471c-9073-9e6cf77b3b37"><img align="center" src="https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=1c6fc2a1-6490-471c-9073-9e6cf77b3b37&amp;metric=tokens&amp;period=total&amp;compact=1&amp;label=total%20tokens" alt="累计 AI Token 用量" ></a>&emsp;
 <a href="https://www.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/501122856" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 <a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
