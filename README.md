@@ -12,17 +12,18 @@
 <a href="https://www.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/501122856" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 <a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
-<a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
+<!-- base 保留用户名迁移前的 10,324 次主页访问。 -->
+<a href="https://komarev.com/ghpvc/?username=zhanghan-13&amp;abbreviated=true&amp;base=10324" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=zhanghan-13&amp;abbreviated=true&amp;base=10324" alt="GitHub 主页访问量"/></a>
 </p>
 
 ## 个人信息👤    
 有大佬想要加互联网求职编程闲聊群可以给我发邮件!
 
 ## 我的项目📚
-- [智搜通: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/AZCodingAccount/iSchool)
-- [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏](https://github.com/AZCodingAccount/iGomokuGame)
-- [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件](https://github.com/AZCodingAccount/iTime)
-- [github-readme-stats-plus: 一个基于React、Ant Design pro、zustand的可视化Github状态卡片生成器](https://github.com/AZCodingAccount/github-readme-stats-plus)
+- [智搜通: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/zhanghan-13/iSchool)
+- [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏](https://github.com/zhanghan-13/iGomokuGame)
+- [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件](https://github.com/zhanghan-13/iTime)
+- [github-readme-stats-plus: 一个基于React、Ant Design pro、zustand的可视化Github状态卡片生成器](https://github.com/zhanghan-13/github-readme-stats-plus)
 
 
 
@@ -43,8 +44,8 @@
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=zhanghan-13&amp;locale=cn&amp;line_height=21&amp;show_icons=true&amp;rank_icon=default&amp;include_all_commits=true&amp;custom_title=Github漫游数据" alt="zhanghan-13 的 GitHub 统计"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghan-13&amp;locale=cn&amp;line_height=33&amp;langs_count=6&amp;layout=compact&amp;custom_title=常用语言" alt="zhanghan-13 的常用编程语言"/>
 
 
 
