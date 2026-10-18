@@ -17,7 +17,7 @@
 </p>
 
 ## 个人信息👤    
-有大佬想要加互联网求职编程闲聊群可以给我发邮件!
+软件工程师
 
 ## 我的项目📚
 - [智搜通: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/zhanghan-13/iSchool)
