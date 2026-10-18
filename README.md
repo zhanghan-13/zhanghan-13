@@ -17,7 +17,7 @@
 </p>
 
 ## 个人信息👤    
-软件工程师
+软件工程师，学习者
 
 ## 我的项目📚
 - [智搜通: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/zhanghan-13/iSchool)
